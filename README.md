@@ -1,0 +1,4 @@
+mates
+=====
+
+Mates Locator is a iOS app which could help group of people to locate themselves on a map.
